@@ -1,0 +1,11 @@
+.container {
+    display:flex;
+    background-color: rgb(217, 40, 99);
+    flex-direction:row;
+    height:30vh;
+    flex-wrap:nowrap;
+}
+
+.item {
+    background-color: rgb(255, 212, 226);
+}
